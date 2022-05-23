@@ -2,7 +2,8 @@
 
 ## Photo Port | Mock Portfolio Page
 
-Deployed on GitHub Pages | https://its-jefe.github.io/photo-port/
+#### Deployed on GitHub Pages | https://its-jefe.github.io/photo-port/
+
 ---
 
 > This code practice was the equivalent of creating a website for a friend. 
