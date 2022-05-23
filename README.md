@@ -12,7 +12,7 @@
 
 --- 
 ### In this module:
-I added a modal to highlight selected photos, and in doing so, you learned how to do the following:
+I added a modal to highlight selected photos and, in doing so, learned how to do the following:
 - [x] Conditionally render a component.
 - [x] Manage state between the parent and child components.
 - [x] Toggle the state of the modal using a Hook.
